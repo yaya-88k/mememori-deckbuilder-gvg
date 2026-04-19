@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Memento Mori Deck Simulator",
+  "description": "A character-based team builder for Memento Mori with single-use constraints and icon integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
