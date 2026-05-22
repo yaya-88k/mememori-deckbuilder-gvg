@@ -1,0 +1,30 @@
+name: Sync character data
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest IconCharacter.json
+        run: curl -sf https://tamamo.dev/assets/Character/IconCharacter.json -o public/IconCharacter.json
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet public/IconCharacter.json; then
+            echo "No changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/IconCharacter.json
+            git commit -m "Sync character data"
+            git push
+          fi
