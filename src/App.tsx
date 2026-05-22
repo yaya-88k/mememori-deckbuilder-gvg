@@ -23,8 +23,7 @@ import {
 import { sortableKeyboardCoordinates } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
 
-const TAMAMO_BASE = import.meta.env.DEV ? "/tamamo-api" : "https://tamamo.dev";
-const CHARACTER_JSON_URL = `${TAMAMO_BASE}/assets/Character/IconCharacter.json`;
+const CHARACTER_JSON_URL = `${import.meta.env.BASE_URL}IconCharacter.json`;
 const MAX_TEAM_SIZE = 5;
 
 const ATTRIBUTES = [

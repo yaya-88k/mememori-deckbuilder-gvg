@@ -1,0 +1,758 @@
+{
+    "1": {
+        "color": "blue",
+        "name": "モニカ",
+        "name-en": "Monica",
+        "Job": 2
+    },
+    "2": {
+        "color": "blue",
+        "name": "イリア",
+        "name-en": "Illya",
+        "Job": 1
+    },
+    "3": {
+        "color": "blue",
+        "name": "アイリス",
+        "name-en": "Iris",
+        "Job": 1
+    },
+    "4": {
+        "color": "blue",
+        "name": "ロキ",
+        "name-en": "Loki",
+        "Job": 2
+    },
+    "5": {
+        "color": "blue",
+        "name": "ソルティーナ",
+        "name-en": "Soltina",
+        "Job": 4
+    },
+    "6": {
+        "color": "blue",
+        "name": "アムレート",
+        "name-en": "Amleth",
+        "Job": 1
+    },
+    "7": {
+        "color": "blue",
+        "name": "フェンリル",
+        "name-en": "Fenrir",
+        "Job": 4
+    },
+    "8": {
+        "color": "blue",
+        "name": "フローレンス",
+        "name-en": "Florence",
+        "Job": 1
+    },
+    "9": {
+        "color": "blue",
+        "name": "ソーニャ",
+        "name-en": "Sonya",
+        "Job": 2
+    },
+    "10": {
+        "color": "blue",
+        "name": "モーザ",
+        "name-en": "Moddey",
+        "Job": 4
+    },
+    "11": {
+        "color": "red",
+        "name": "シャーロット",
+        "name-en": "Charlotte",
+        "Job": 1
+    },
+    "12": {
+        "color": "red",
+        "name": "アリアンロッド",
+        "name-en": "Arianrhod",
+        "Job": 1
+    },
+    "13": {
+        "color": "red",
+        "name": "テオドラ",
+        "name-en": "Theodora",
+        "Job": 4
+    },
+    "14": {
+        "color": "red",
+        "name": "ペトラ",
+        "name-en": "Petra",
+        "Job": 2
+    },
+    "15": {
+        "color": "red",
+        "name": "サブリナ",
+        "name-en": "Sabrina",
+        "Job": 1
+    },
+    "16": {
+        "color": "red",
+        "name": "フレイシア",
+        "name-en": "Freesia",
+        "Job": 4
+    },
+    "17": {
+        "color": "red",
+        "name": "アモール",
+        "name-en": "Amour",
+        "Job": 2
+    },
+    "18": {
+        "color": "red",
+        "name": "リーン",
+        "name-en": "Rean",
+        "Job": 1
+    },
+    "19": {
+        "color": "red",
+        "name": "ベル",
+        "name-en": "Belle",
+        "Job": 4
+    },
+    "20": {
+        "color": "red",
+        "name": "ディアン",
+        "name-en": "Dian",
+        "Job": 2
+    },
+    "21": {
+        "color": "green",
+        "name": "シズ",
+        "name-en": "Shizu",
+        "Job": 1
+    },
+    "22": {
+        "color": "green",
+        "name": "ザラ",
+        "name-en": "Zara",
+        "Job": 1
+    },
+    "23": {
+        "color": "green",
+        "name": "ロザリー",
+        "name-en": "Rosalie",
+        "Job": 4
+    },
+    "24": {
+        "color": "green",
+        "name": "リブラ",
+        "name-en": "Libra",
+        "Job": 2
+    },
+    "25": {
+        "color": "green",
+        "name": "アイビー",
+        "name-en": "Ivy",
+        "Job": 2
+    },
+    "26": {
+        "color": "green",
+        "name": "マーリン",
+        "name-en": "Merlyn",
+        "Job": 4
+    },
+    "27": {
+        "color": "green",
+        "name": "コルディ",
+        "name-en": "Cordie",
+        "Job": 2
+    },
+    "28": {
+        "color": "green",
+        "name": "ニーナ",
+        "name-en": "Nina",
+        "Job": 2
+    },
+    "29": {
+        "color": "green",
+        "name": "メルティーユ",
+        "name-en": "Mertillier",
+        "Job": 4
+    },
+    "30": {
+        "color": "green",
+        "name": "ルーク",
+        "name-en": "Luke",
+        "Job": 1
+    },
+    "31": {
+        "color": "yellow",
+        "name": "ガルム",
+        "name-en": "Garmr",
+        "Job": 2
+    },
+    "32": {
+        "color": "yellow",
+        "name": "スクルド",
+        "name-en": "Skuld",
+        "Job": 4
+    },
+    "33": {
+        "color": "yellow",
+        "name": "チェルナ",
+        "name-en": "Cherna",
+        "Job": 4
+    },
+    "34": {
+        "color": "yellow",
+        "name": "ソテイラ",
+        "name-en": "Soteira",
+        "Job": 4
+    },
+    "35": {
+        "color": "yellow",
+        "name": "ミミ",
+        "name-en": "Mimi",
+        "Job": 1
+    },
+    "36": {
+        "color": "yellow",
+        "name": "トロポン",
+        "name-en": "Tropon",
+        "Job": 4
+    },
+    "37": {
+        "color": "yellow",
+        "name": "ハトホル",
+        "name-en": "Hathor",
+        "Job": 2
+    },
+    "38": {
+        "color": "yellow",
+        "name": "オリヴィエ",
+        "name-en": "Olivia",
+        "Job": 1
+    },
+    "39": {
+        "color": "yellow",
+        "name": "プリマヴェーラ",
+        "name-en": "Primavera",
+        "Job": 2
+    },
+    "40": {
+        "color": "yellow",
+        "name": "カロル",
+        "name-en": "Carol",
+        "Job": 4
+    },
+    "41": {
+        "color": "light",
+        "name": "【弔花の魔女】ナターシャ",
+        "name-en": "[The Witch of Mourning Flowers]Natasha",
+        "Job": 1
+    },
+    "42": {
+        "color": "light",
+        "name": "【聖剣の魔女】フォルティナ",
+        "name-en": "[The Witch of Sacred Swords]Fortina",
+        "Job": 1
+    },
+    "43": {
+        "color": "light",
+        "name": "【雷啼の魔女】ケルベロス",
+        "name-en": "[The Witch of Wailing Lightning]Cerberus",
+        "Job": 1
+    },
+    "44": {
+        "color": "light",
+        "name": "【天泣の魔女】ルサールカ",
+        "name-en": "[The Witch of Torrential Sorrow]Rusalka",
+        "Job": 4
+    },
+    "45": {
+        "color": "light",
+        "name": "【聖槍の魔女】エルフリンデ",
+        "name-en": "[The Witch of Longinus]Elfriede",
+        "Job": 1
+    },
+    "46": {
+        "color": "dark",
+        "name": "【雪幻の魔女】ルナリンド",
+        "name-en": "[The Witch of Snowy Illusions]Lunalynn",
+        "Job": 4
+    },
+    "47": {
+        "color": "dark",
+        "name": "【劫火の魔女】ヴァルリーデ",
+        "name-en": "[The Witch of Conflagration]Valeriede",
+        "Job": 1
+    },
+    "48": {
+        "color": "dark",
+        "name": "【錆鉄の魔女】Ａ.Ａ.",
+        "name-en": "[The Witch of Rust]A.A.",
+        "Job": 4
+    },
+    "49": {
+        "color": "dark",
+        "name": "【骸晶の魔女】オフィーリア",
+        "name-en": "[The Witch of Fallen Crystals]Ophelia",
+        "Job": 1
+    },
+    "50": {
+        "color": "dark",
+        "name": "【英霊の魔女】アームストロング",
+        "name-en": "[The Witch of Lost Souls]Armstrong",
+        "Job": 2
+    },
+    "51": {
+        "color": "red",
+        "name": "ソフィア",
+        "name-en": "Sophia",
+        "Job": 1
+    },
+    "52": {
+        "color": "blue",
+        "name": "シヴィ",
+        "name-en": "Sivi",
+        "Job": 1
+    },
+    "53": {
+        "color": "yellow",
+        "name": "ウィーラ",
+        "name-en": "Veela",
+        "Job": 4
+    },
+    "54": {
+        "color": "red",
+        "name": "シフォン",
+        "name-en": "Chiffon",
+        "Job": 4
+    },
+    "55": {
+        "color": "green",
+        "name": "レア",
+        "name-en": "Lea",
+        "Job": 2
+    },
+    "56": {
+        "color": "green",
+        "name": "クラウディア",
+        "name-en": "Claudia",
+        "Job": 1
+    },
+    "57": {
+        "color": "blue",
+        "name": "ステラ",
+        "name-en": "Stella",
+        "Job": 1
+    },
+    "58": {
+        "color": "red",
+        "name": "アーティ",
+        "name-en": "Artie",
+        "Job": 4
+    },
+    "59": {
+        "color": "blue",
+        "name": "エイル",
+        "name-en": "Eir",
+        "Job": 2
+    },
+    "60": {
+        "color": "green",
+        "name": "フィアー",
+        "name-en": "Fia",
+        "Job": 1
+    },
+    "61": {
+        "color": "dark",
+        "name": "【神呪の魔女】イリア",
+        "name-en": "[The Witch of God’s Curse]Illya",
+        "Job": 1
+    },
+    "62": {
+        "color": "red",
+        "name": "プリシラ",
+        "name-en": "Priscilla",
+        "Job": 4
+    },
+    "63": {
+        "color": "dark",
+        "name": "【正義の魔女】パラデア",
+        "name-en": "[The Witch of Justice]Paladea",
+        "Job": 2
+    },
+    "64": {
+        "color": "blue",
+        "name": "ギルウィアル",
+        "name-en": "Gil’uial",
+        "Job": 4
+    },
+    "65": {
+        "color": "light",
+        "name": "アイネ",
+        "name-en": "Aine",
+        "Job": 2
+    },
+    "66": {
+        "color": "yellow",
+        "name": "［黒鎧の従者］アイリス",
+        "name-en": "[Attendant Tainted in Black​]Iris",
+        "Job": 1
+    },
+    "67": {
+        "color": "yellow",
+        "name": "リシェス",
+        "name-en": "Richesse",
+        "Job": 1
+    },
+    "68": {
+        "color": "blue",
+        "name": "フェーネ",
+        "name-en": "Fenny",
+        "Job": 2
+    },
+    "69": {
+        "color": "dark",
+        "name": "【夢幻の魔女】カグヤ",
+        "name-en": "[The Witch of Dreams]Kaguya",
+        "Job": 4
+    },
+    "70": {
+        "color": "green",
+        "name": "［涼風の軍神］サブリナ",
+        "name-en": "[Soldier of the Summer Breeze]Sabrina",
+        "Job": 1
+    },
+    "71": {
+        "color": "yellow",
+        "name": "［墓守の夏休み］モーザ",
+        "name-en": "[Gravekeeper’s Summer Holiday]Moddey",
+        "Job": 4
+    },
+    "72": {
+        "color": "red",
+        "name": "［夏の残響］コルディ",
+        "name-en": "[Summer’s Reverb]Cordie",
+        "Job": 2
+    },
+    "73": {
+        "color": "yellow",
+        "name": "［聖夜の贈り物］アモール",
+        "name-en": "[Holy Night’s Gift]Amour",
+        "Job": 2
+    },
+    "74": {
+        "color": "blue",
+        "name": "［聖夜の祈り］トロポン",
+        "name-en": "[Holy Night’s Prayer]Tropon",
+        "Job": 4
+    },
+    "75": {
+        "color": "red",
+        "name": "モルガナ",
+        "name-en": "Morgana",
+        "Job": 4
+    },
+    "76": {
+        "color": "green",
+        "name": "ユニ",
+        "name-en": "Yuni",
+        "Job": 4
+    },
+    "77": {
+        "color": "blue",
+        "name": "ミナシュマリ",
+        "name-en": "Minasumari",
+        "Job": 1
+    },
+    "78": {
+        "color": "yellow",
+        "name": "アサヒ",
+        "name-en": "Asahi",
+        "Job": 2
+    },
+    "79": {
+        "color": "blue",
+        "name": "セルリア",
+        "name-en": "Serruria",
+        "Job": 2
+    },
+    "80": {
+        "color": "green",
+        "name": "ミラ",
+        "name-en": "Milla",
+        "Job": 4
+    },
+    "81": {
+        "color": "yellow",
+        "name": "タマ",
+        "name-en": "Tama",
+        "Job": 2
+    },
+    "82": {
+        "color": "green",
+        "name": "アレクサンドラ",
+        "name-en": "Alexandra",
+        "Job": 1
+    },
+    "83": {
+        "color": "yellow",
+        "name": "［二人だけの宝物］フェンリル",
+        "name-en": "[A Treasured Bond]Fenrir",
+        "Job": 1
+    },
+    "84": {
+        "color": "blue",
+        "name": "リズ",
+        "name-en": "Liselotte",
+        "Job": 4
+    },
+    "85": {
+        "color": "red",
+        "name": "マチルダ",
+        "name-en": "Matilda",
+        "Job": 4
+    },
+    "86": {
+        "color": "light",
+        "name": "【災芽の魔女】メリア",
+        "name-en": "[The Witch of Budding Doom]Meria",
+        "Job": 1
+    },
+    "87": {
+        "color": "dark",
+        "name": "【泡沫の魔女】ネブラ",
+        "name-en": "[The Witch of Malefic Bubbles]Nebra",
+        "Job": 4
+    },
+    "88": {
+        "color": "light",
+        "name": "［カリタスの使徒］ロザリー",
+        "name-en": "[Apostle of Caritas]Rosalie",
+        "Job": 4
+    },
+    "89": {
+        "color": "red",
+        "name": "ルシール",
+        "name-en": "Lucille",
+        "Job": 1
+    },
+    "92": {
+        "color": "green",
+        "name": "イディーネ",
+        "name-en": "Eidene",
+        "Job": 4
+    },
+    "93": {
+        "color": "red",
+        "name": "アルトリア",
+        "name-en": "Artoria",
+        "Job": 1
+    },
+    "95": {
+        "color": "blue",
+        "name": "［小さな大冒険］ニーナ",
+        "name-en": "[Little Big Adventure]Nina",
+        "Job": 2
+    },
+    "96": {
+        "color": "yellow",
+        "name": "［夏の日の夢］アムレート",
+        "name-en": "[A Midsummer Day’s Dream]Amleth",
+        "Job": 1
+    },
+    "99": {
+        "color": "red",
+        "name": "リリコット",
+        "name-en": "Lillicotte",
+        "Job": 2
+    },
+    "100": {
+        "color": "yellow",
+        "name": "モワノー",
+        "name-en": "Moineau",
+        "Job": 2
+    },
+    "101": {
+        "color": "blue",
+        "name": "エヴリン",
+        "name-en": "Evelyn",
+        "Job": 4
+    },
+    "102": {
+        "color": "red",
+        "name": "リーベ",
+        "name-en": "Liebe",
+        "Job": 1
+    },
+    "103": {
+        "color": "green",
+        "name": "コベル",
+        "name-en": "Kobel",
+        "Job": 2
+    },
+    "105": {
+        "color": "dark",
+        "name": "【花束の魔女】ナターシャ",
+        "name-en": "[The Witch of Festive Blossoms]Natasha",
+        "Job": 2
+    },
+    "106": {
+        "color": "blue",
+        "name": "ユリーカ",
+        "name-en": "Eureka",
+        "Job": 4
+    },
+    "107": {
+        "color": "red",
+        "name": "［温かな記憶］ソルティーナ",
+        "name-en": "[Heartwarming Memories]Soltina",
+        "Job": 1
+    },
+    "108": {
+        "color": "green",
+        "name": "［聖夜の妖精］ルナリンド",
+        "name-en": "[Holy Night’s Fairy]Lunalynn",
+        "Job": 2
+    },
+    "109": {
+        "color": "light",
+        "name": "アイリーン",
+        "name-en": "Eirene",
+        "Job": 2
+    },
+    "111": {
+        "color": "green",
+        "name": "ティリー",
+        "name-en": "Tillie",
+        "Job": 4
+    },
+    "112": {
+        "color": "red",
+        "name": "［雪花の誓い］シズ",
+        "name-en": "[Snow Flower’s Vow]Shizu",
+        "Job": 1
+    },
+    "113": {
+        "color": "yellow",
+        "name": "ルスティカ",
+        "name-en": "Rustica",
+        "Job": 1
+    },
+    "114": {
+        "color": "green",
+        "name": "ポーラ",
+        "name-en": "Pola",
+        "Job": 2
+    },
+    "115": {
+        "color": "yellow",
+        "name": "ポプリ",
+        "name-en": "Potpourri",
+        "Job": 2
+    },
+    "116": {
+        "color": "green",
+        "name": "Ｄ.Ｄ.",
+        "name-en": "D.D.",
+        "Job": 4
+    },
+    "117": {
+        "color": "light",
+        "name": "［錆鉄の空］Ａ.Ａ.",
+        "name-en": "[Sky of Rust]A.A.",
+        "Job": 4
+    },
+    "121": {
+        "color": "light",
+        "name": "ルミカ",
+        "name-en": "Lumica​",
+        "Job": 1
+    },
+    "122": {
+        "color": "red",
+        "name": "フラック",
+        "name-en": "Flack",
+        "Job": 2
+    },
+    "123": {
+        "color": "blue",
+        "name": "［サーカスの団長］コルディ",
+        "name-en": "[Greatest Ringmaster]Cordie",
+        "Job": 1
+    },
+    "124": {
+        "color": "green",
+        "name": "ユルディズ",
+        "name-en": "Yildiz",
+        "Job": 1
+    },
+    "125": {
+        "color": "dark",
+        "name": "カーミラ",
+        "name-en": "Carmilla",
+        "Job": 1
+    },
+    "126": {
+        "color": "yellow",
+        "name": "ミフリ",
+        "name-en": "Mihri",
+        "Job": 4
+    },
+    "128": {
+        "color": "light",
+        "name": "【砂塵の魔女】リヴェリア",
+        "name-en": "[The Witch of Storming Sands]Liberia",
+        "Job": 2
+    },
+    "129": {
+        "color": "dark",
+        "name": "［魔法のキャンディ］ケルベロス",
+        "name-en": "[Treasured Candy]Cerberus",
+        "Job": 4
+    },
+    "130": {
+        "color": "red",
+        "name": "アイシェ",
+        "name-en": "Ayse",
+        "Job": 2
+    },
+    "131": {
+        "color": "blue",
+        "name": "［深き森の賢者］マーリン",
+        "name-en": "[Sage of the Deep Forest]Merlyn",
+        "Job": 4
+    },
+    "132": {
+        "color": "green",
+        "name": "［聖なる漆黒の輝く星］ステラ",
+        "name-en": "[Shining Star of Holy Darkness]Stella",
+        "Job": 4
+    },
+    "134": {
+        "color": "blue",
+        "name": "［在りし日の面影］フィアー",
+        "name-en": "[A Trace of Days Gone By]Fia",
+        "Job": 1
+    },
+    "135": {
+        "color": "yellow",
+        "name": "メルラン",
+        "name-en": "Myrlennia",
+        "Job": 4
+    },
+    "137": {
+        "color": "dark",
+        "name": "レジーナ",
+        "name-en": "Regina",
+        "Job": 2
+    },
+    "139": {
+        "color": "yellow",
+        "name": "トリクシー",
+        "name-en": "Trixie",
+        "Job": 4
+    },
+    "141": {
+        "color": "light",
+        "name": "リリー",
+        "name-en": "Lily",
+        "Job": 4
+    }
+}

@@ -4,19 +4,11 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig({
+  base: '/mememori-deckbuilder-gvg/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, '.'),
-    },
-  },
-  server: {
-    proxy: {
-      '/tamamo-api': {
-        target: 'https://tamamo.dev',
-        changeOrigin: true,
-        rewrite: (p) => p.replace(/^\/tamamo-api/, ''),
-      },
     },
   },
 });
