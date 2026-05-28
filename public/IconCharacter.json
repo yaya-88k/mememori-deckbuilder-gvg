@@ -533,6 +533,12 @@
         "name-en": "Lucille",
         "Job": 1
     },
+    "90": {
+        "color": "yellow",
+        "name": "カトレア",
+        "name-en": "Cattleya",
+        "Job": 1
+    },
     "92": {
         "color": "green",
         "name": "イディーネ",
