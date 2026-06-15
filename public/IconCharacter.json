@@ -760,5 +760,11 @@
         "name": "リリー",
         "name-en": "Lily",
         "Job": 4
+    },
+    "148": {
+        "color": "red",
+        "name": "グィネヴィア",
+        "name-en": "Guinevere",
+        "Job": 2
     }
 }
